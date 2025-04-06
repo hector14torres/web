@@ -1,0 +1,52 @@
+body {
+    
+    background: linear-gradient(90deg, rgba(255,0,244,1) 28%, rgba(0,212,255,1) 79%);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+
+
+}
+
+.titulo {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 50px;
+    color: whitesmoke;
+
+
+}
+.inicio{
+    
+    margin: auto;
+
+}
+.enla-col{
+    color:  #ffb3ec;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 25px;
+
+}
+.colo{
+    color: #ffb3ec;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 25px;
+
+
+}
+.tam{
+    width:259px; 
+    height:195px;
+
+
+}
+.color{
+    color: #ffb3ec;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 25px;
+}
